@@ -12,7 +12,7 @@
 
 **籍贯**：广东省梅州市
 
-**学校专业**：中山大学软件学院、
+**学校专业**：中山大学软件学院
 
 **电话**：13824421386
 
@@ -56,8 +56,8 @@
 求组队中山大学竞赛管理平台，致力于创造一个良好的适用于中山大学的竞赛管理平台。网站希望社团能够找到一个良好的平台宣传社团比赛/活动，个人能够在自己感兴趣的比赛汇总找到心仪的队友。
 
 
-### [益米通](http://emitongweb.duapp.com/shop/emitong/pages/index.php?sid=1_1398397639_36)
-微信页面：http://emitongweb.duapp.com/shop/emitong/pages/index.php?sid=1_1398397639_36
+### [益米通](https://github.com/yuanzm/emitong.git)
+项目地址：https://github.com/yuanzm/emitong.git
 
 益米通服务有限公司是中山大学和广东外语外贸大学学生联合创立的公司，与中国银行合作，创办益米卡--中行园区卡，致力于创办能够让大学城学生享受打折优惠的中行信用卡。
 
