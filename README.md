@@ -30,9 +30,10 @@
 * 掌握的JavaScript类库：jQuery
 * 掌握的JavaScript框架：BackBone
 * 掌握的CSS预编译器：LessCss
+* 掌握项目构建工具：Grunt
 * 掌握项目管理和协同工具的使用：SVN、Git
 * 掌握基本后端开发：NodeJS
-* 掌握web相关技术：MongoDB、SQL
+* 掌握web相关技术：MongoDB、SQL、CoffeeScript
 
 ##个人经历
 
