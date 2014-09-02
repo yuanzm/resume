@@ -19,6 +19,7 @@
 **Email**：1229084233@qq.com
 
 **github**：https://github.com/yuanzm
+**blog**：http://www.cnblogs.com/yuanzm
 
 **英语水平**：CET-4  CET-6
 
