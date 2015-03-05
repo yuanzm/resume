@@ -49,6 +49,11 @@
 
 ## 个人作品
 
+### [LiveChat](https://github.com/yuanzm/Live-Chat)
+项目地址： https://github.com/yuanzm/Live-Chat
+
+LiveChat是采用Node+Express+MongoDB+Socket.io的实时聊天软件。主要实现了群聊、私聊、消息离线、消息通知等功能。项目主要特点在于前后端都实现了模块化，并且采用了Grunt和browserify等工具实现了自动化工作流。
+
 ### [求组队](https://github.com/yuanzm/project-qiuzudui)
 项目地址：https://github.com/yuanzm/project-qiuzudui
 
@@ -69,6 +74,7 @@
 项目地址：https://github.com/yuanzm/Snake
 
 在闲暇的时候用JavaScript写了一个贪吃蛇小游戏
+
 
 ## 自我简介
 
