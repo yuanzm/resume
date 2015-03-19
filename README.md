@@ -10,20 +10,15 @@
 
 **出生年月**：1993年10月14日
 
-**籍贯**：广东省梅州市
-
 **学校专业**：**中山大学**软件学院
 
 **电话**：13824421386
 
 **Email**：1229084233@qq.com
 
-**github**：https://github.com/yuanzm
-
 **blog**：http://www.cnblogs.com/yuanzm
 
-**英语水平**：CET-4  CET-6
-
+**英语水平**：CET-4
 
 ## 技术能力
 
