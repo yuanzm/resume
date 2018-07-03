@@ -10,29 +10,31 @@
 
 **学校专业**：**中山大学**软件学院
 
-**blog**：http://www.cnblogs.com/yuanzm
+**blog**：http://www.cnblogs.com/yuanzm or https://segmentfault.com/u/yuanzm/articles
 
 ## 技术能力
 
 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
 * 掌握的JavaScript类库：jQuery、Prototype
-* 掌握的JavaScript框架：BackBone、Vuejs、Angular.js、React.js
+* 掌握的JavaScript框架：BackBone、Vuejs
 * 掌握的CSS预编译器：LessCss、Sass
 * 掌握JavaScript模块加载器：RequireJS、Browserify
-* 掌握项目构建工具：Grunt、Gulp
+* 掌握项目构建工具：Grunt、Gulp、Webpack
 * 掌握项目管理和协同工具的使用：SVN、Git
 * 掌握前端测试框架以及工具：Jasmine、Mocha
 * 掌握基本后端开发：NodeJS、Python
+* 常用前端开发工具：Sublime、Vim、Fiddler、Charles
 * 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
 
 ##个人经历
 
 * 2012年进入中山大学学习
 * 大一开始接触Web
-* 大二开始疯狂投入web学习
+* 大二开始正式投入web学习
 * 大二下开始加入创业团队，系益米通服务有限公司的微信前端工程师
-* 大二暑假在广州时代财富有限公司上班实习，参与建设银行网上银行前端原型开发
+* 大二暑假在广州时代财富有限公司上班实习
+* 2016至今就职于微信
 
 ## 个人作品
 
@@ -75,16 +77,10 @@ Home-Cloud是基于Python的Tornado框架构的一个移动端WebApp。Home-Clou
 
 第一次做手机端的Web应用，整个项目用于展示与益米通公司合作商家的优惠信息。项目遇到的主要问题是移动端Web经验缺乏，不同设备的适配问题等。通过查阅资料以及咨询前辈，在这个项目中掌握了Web响应式应用的开发，同时了解了微信公众平台应用开发的基本流程。
 
-### [学院党委网站维护](http://pro.ss.sysu.edu.cn:8080/party_affairs/index.jsp)
-项目地址：http://pro.ss.sysu.edu.cn:8080/party_affairs/index.jsp
-
-主要任务是部署基于Java Web的网站服务器和网站的日常维护工作。
-
 ### [Snake](https://github.com/yuanzm/Snake)
 项目地址：https://github.com/yuanzm/Snake
 
 在闲暇的时候用JavaScript写了一个贪吃蛇小游戏
-
 
 ## 自我简介
 
