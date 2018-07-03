@@ -24,7 +24,7 @@
 * 掌握项目管理和协同工具的使用：SVN、Git
 * 掌握前端测试框架以及工具：Jasmine、Mocha
 * 掌握基本后端开发：NodeJS、Python
-* 常用前端开发工具：Sublime、Vim、Fiddler、Charles、Chrome
+* 常用前端开发工具：Vim、Fiddler、Charles、Chrome
 * 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
 
 ## 个人经历
@@ -32,8 +32,8 @@
 * 2012年进入中山大学学习
 * 2013年投入web学习
 * 2013年-2014年加入创业团队，系益米通服务有限公司的微信前端工程师
-* 2015年7月于深圳市腾讯计算机系统有限公司实习
-* 2016至今就职于微信
+* 2015年7月-2017年3月于深圳市腾讯计算机系统有限公司实习
+* 2016年至今就职于微信
 
 ## 个人作品
 
