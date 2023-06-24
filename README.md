@@ -14,7 +14,7 @@
 
 ## 技术能力
 
-专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
+专注并且热爱web开发，熟练掌握JavaScript、HTML、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
 * 掌握的JavaScript类库：jQuery
 * 掌握的JavaScript框架：Vuejs
